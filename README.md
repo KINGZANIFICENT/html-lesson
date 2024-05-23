@@ -1,26 +1,26 @@
 # html-lesson
 
-<!-- <h1>Anna Dowlin</h1> <!--h1 for header in html closing line always has a / -->
-<!-- <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p> p is for paragraph -->
-<!-- <input type="email" placeholder="Your email"> typebox -->
-<!-- <input type="submit"> clicker -->
+<h1>Anna Dowlin</h1> h1 for header in html closing line always has a /
+<p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p> p is for paragraph
+<input type="email" placeholder="Your email"> typebox
+<input type="submit"> clicker
 
 
 
 
 
 
-<!-- <style>
+<style>
 body {
   text-align: center;
   }
 </style>
 <body> used to wrap all off the contents together --> 
-<!-- <h1>Anna Dowlin</h1>
+<h1>Anna Dowlin</h1>
 <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
 <input type="email" placeholder="Your email">
 <input type="submit">
-</body> --> 
+</body> 
 
 
 
@@ -29,7 +29,7 @@ body {
 
 
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <head>
   <title>Anna Dowlin</title>
   <style>
@@ -46,12 +46,12 @@ body {
     <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
     <input type="email" placeholder="Your email">
     <input type="submit">
-</body> -->
+</body>
 
 
 
 
-<!-- FINISHED 
+FINISHED 
 
 <!DOCTYPE html>
 <head>
@@ -89,11 +89,11 @@ body {
 
 
 
-<!-- -------------------------------------------------------------- -->
-<!-- blog starts here -->
+--------------------------------------------------------------
+ blog starts here -->
 
 
-<!-- links 
+ links 
 <!DOCTYPE html>
 <head>
 
@@ -109,12 +109,12 @@ body {
         <li><a href="#">Worst Poems</a></li>
         </ul>
  </header>
-</body> -->
+</body>
 
 
 
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <head>
   <link href="/normalize.css" rel="stylesheet">
   <style>
@@ -155,7 +155,7 @@ body {
       <li><a href="#">Worst Poems</a></li>
     </ul>
   </header>
-</body> -->
+</body>
 
 
 
@@ -163,7 +163,7 @@ body {
 
 
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <head>
   <link href="/normalize.css" rel="stylesheet">
   <style>
@@ -242,7 +242,7 @@ body {
     alert("clicked!")
   });
   </script>
-</body>  -->
+</body> 
 
 
 
@@ -252,7 +252,7 @@ body {
 
 <!-- resturant site starts here -->
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <head>
 
@@ -315,12 +315,12 @@ div {
 <h2>fruitcake marzipan pudding dragee $8</h2>
 <p>Lollipop tart cotton candy jelly-o carrot cake apple pie cupcake. Jelly-o bear claw ice cream candy canes.</p>
 </div>
-</body> -->
+</body>
 
 
 
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <head>
 
@@ -412,12 +412,12 @@ div {
 <h2>fruitcake marzipan pudding dragee $8</h2>
 <p>Lollipop tart cotton candy jelly-o carrot cake apple pie cupcake. Jelly-o bear claw ice cream candy canes.</p>
 </div>
-</body> -->
+</body>
 
 
 
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <head>
 
@@ -468,11 +468,11 @@ p {
 <p>Lollipop tart cotton candy jelly-o carrot cake apple pie cupcake. Jelly-o bear claw ice cream candy canes.</p>
 </div>
 </body>
-  -->
+ 
 
 
 
-  <!-- <!DOCTYPE html>
+  <!DOCTYPE html>
 
 <head>
 
@@ -526,13 +526,13 @@ p {
 <h2>fruitcake marzipan pudding dragee $8</h2>
 <p>Lollipop tart cotton candy jelly-o carrot cake apple pie cupcake. Jelly-o bear claw ice cream candy canes.</p>
 </div>
-</body> -->
+</body>
 
 
 
 
 
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <head>
 
@@ -603,7 +603,7 @@ p {
     </small>
 </p>
 </div>
-</body> -->
+</body>
 
 <!DOCTYPE html>
 
