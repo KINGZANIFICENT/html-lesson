@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background: url('https://mystateoffitness.com/wp-content/uploads/2017/01/ingredients-498199_1920.jpg');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid black;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.imgur.com/eC8dHD9.jpeg">
+    <h1>The Life Of A Chef</h1>
+    <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Recipies</a></li>
+      <li><a href="#">Photos</a></li>
+    </ul>
+  </header>
+  <article>
+    <h2>The Mornings</h2>
+    <p>Nothing is better than walking into your kitchen to see your team at full functionality with smiles on their faces. We all went to bed after 1 a.m. and still made it in by 7 a.m. It's a tough life, but we do it with smiles on our faces. It's from the weird sense of self-accomplishment we get. That feeling when someone enjoys a product you made—it's love.</p>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>The Mid Day</h2>
+    <p>It's been busy since 9 a.m. It's now 6 p.m., and we all know it's only going to get worse. The nicotine fiends are jonesing for a cigarette, and you've had to use the bathroom since 2 p.m. It seems like that large flat white wasn't the best idea after all. You're working as hard and as fast as you can while swimming in a pool of sweat in your chef jacket. You let your best cook go smoke a ciggy before he implodes. It's 7 p.m. now, and it was so busy you never realized that the closing cook isn't here—she called out. But it was too busy for you to see your phone, so now you have to ask someone to cover. In the midst of all that, three new tickets come in, and you grab a pan to continue working. But it's hot; it just came out of the oven. It's a shit show and it's stressful as hell. But how the hell are we all laughing and listening to music, living in the chaos and controlling it</p>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>The Close</h2>
+    <p>It's 12 a.m. now. A table walked in at 11:57, and of course, the host sat the table of five. One last order. We're all tired; you can see our tanks are on empty. But then something happens. As soon as the table leaves, have you ever seen that movie Dazed and Confused? It's like the scene when they let all the kids out of school. Even though we are still stuck there cleaning the kitchen, the music is pumping, we're singing, we're dancing, we're happy because we got to feed people today, and we did a damn good job. And even though we are all getting home past 2:30 a.m. tonight because it's the weekend and the trains are messed up, we're going to do it again tomorrow with love!
+
+But realistically, how long can one keep that up? The burns, the arguments, the slow days, the busy days, and the super busy days. The no sleep, the missing all the holidays. It's not manageable unless you sell your soul and go corporate. But at that point, stop calling yourself a chef. You're a person in a jacket making recipes that you didn't create, just filling a body in a kitchen that doesn't care about you. I'd rather put my chef knife down in the working world than turn into a zombie in a chef's jacket.</p>
+    <button>Like</button>
+  </article>
+  <script>
+    $("button").on("click", function() {
+      alert("Clicked!");
+    });
+  </script>
+</body>
+
+<!-- https://dash.generalassemb.ly/Zanificent/build-your-own-blog-theme -->
